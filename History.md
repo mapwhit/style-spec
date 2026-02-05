@@ -1,4 +1,11 @@
 
+1.2.1 / 2026-02-05
+==================
+
+ * rename project to `@mapwhit/style-spec`
+ * more integration tests for `global-state`
+ * define option to use `global-state` in layer `visibility` property in reference spec
+
 1.2.0 / 2025-09-07
 ==================
 
