@@ -1,5 +1,5 @@
 {
-  "name": "@mapwhit/style-expressions",
+  "name": "@mapwhit/style-spec",
   "version": "1.2.0",
   "description": "Process expressions in map style.",
   "author": {
@@ -11,11 +11,11 @@
   "exports": "./lib/expression/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mapwhit/style-expressions.git"
+    "url": "git+https://github.com/mapwhit/style-spec.git"
   },
   "license": "BSD-3-Clause",
   "keywords": [
-    "style-expressions",
+    "style-spec",
     "map"
   ],
   "dependencies": {
